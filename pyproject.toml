@@ -6,6 +6,8 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "fastmcp>=2.7.0",
+    "ipykernel>=6.29.5",
+    "mcp-agent>=0.0.23",
     "python-dotenv>=1.1.0",
     "requests>=2.32.3",
 ]

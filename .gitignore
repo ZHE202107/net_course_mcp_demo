@@ -9,3 +9,6 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# ignore output files
+mcp-agent.jsonl
